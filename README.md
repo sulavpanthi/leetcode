@@ -6,6 +6,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sulavpanthi/leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sulavpanthi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 # Hash Table
 |  |
 | ------- |
@@ -18,3 +19,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sulavpanthi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |

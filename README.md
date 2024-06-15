@@ -24,6 +24,7 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0344-reverse-string](https://github.com/sulavpanthi/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |
@@ -37,6 +38,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -49,3 +51,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+# Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |

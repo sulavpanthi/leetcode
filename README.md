@@ -13,6 +13,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sulavpanthi/leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 # Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sulavpanthi/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |
@@ -39,3 +41,11 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |
+# Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+# Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |

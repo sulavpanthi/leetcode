@@ -16,10 +16,12 @@ This repo is for maintaining all my leetcode submissions.
 # Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sulavpanthi/leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sulavpanthi/leetcode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |

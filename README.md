@@ -28,3 +28,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sulavpanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |

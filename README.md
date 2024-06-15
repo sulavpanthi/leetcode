@@ -8,6 +8,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0001-two-sum](https://github.com/sulavpanthi/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sulavpanthi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sulavpanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |
 # Hash Table
 |  |
 | ------- |
@@ -32,3 +33,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |

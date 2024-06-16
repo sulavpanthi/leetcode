@@ -13,6 +13,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sulavpanthi/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sulavpanthi/leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 # Two Pointers
 |  |
@@ -22,6 +23,7 @@ This repo is for maintaining all my leetcode submissions.
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sulavpanthi/leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sulavpanthi/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
@@ -38,6 +40,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sulavpanthi/leetcode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 | [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/sulavpanthi/leetcode/tree/master/1806-count-of-matches-in-tournament) |

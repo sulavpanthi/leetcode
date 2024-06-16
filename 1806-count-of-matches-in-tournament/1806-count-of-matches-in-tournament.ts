@@ -1,7 +1,7 @@
 function numberOfMatches(n: number): number {
     let totalMatchPlayed: number = 0;
     while (n>=2) {
-        if (n%2 == 0) {
+        if(n%2 == 0) {
             n = n / 2
             totalMatchPlayed = totalMatchPlayed + n
         }

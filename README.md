@@ -42,6 +42,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sulavpanthi/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sulavpanthi/leetcode/tree/master/0050-powx-n) |
+| [0372-super-pow](https://github.com/sulavpanthi/leetcode/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 | [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/sulavpanthi/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -68,3 +69,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sulavpanthi/leetcode/tree/master/0050-powx-n) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/sulavpanthi/leetcode/tree/master/0372-super-pow) |

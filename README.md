@@ -39,10 +39,12 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0009-palindrome-number](https://github.com/sulavpanthi/leetcode/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
+| [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |
+| [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 # Queue
 |  |
 | ------- |

@@ -41,6 +41,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 | [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/sulavpanthi/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2752-sum-multiples](https://github.com/sulavpanthi/leetcode/tree/master/2752-sum-multiples) |
 # Bit Manipulation
 |  |
 | ------- |

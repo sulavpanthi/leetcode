@@ -38,6 +38,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sulavpanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/sulavpanthi/leetcode/tree/master/1013-fibonacci-number) |
 # Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0050-powx-n](https://github.com/sulavpanthi/leetcode/tree/master/0050-powx-n) |
 | [0372-super-pow](https://github.com/sulavpanthi/leetcode/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/sulavpanthi/leetcode/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/sulavpanthi/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/sulavpanthi/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2752-sum-multiples](https://github.com/sulavpanthi/leetcode/tree/master/2752-sum-multiples) |
@@ -71,7 +73,12 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sulavpanthi/leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/sulavpanthi/leetcode/tree/master/1013-fibonacci-number) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/sulavpanthi/leetcode/tree/master/0372-super-pow) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sulavpanthi/leetcode/tree/master/1013-fibonacci-number) |

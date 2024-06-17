@@ -3,19 +3,16 @@ function isPalindrome(s: string): boolean {
     let rightPointer: number = s.length - 1;
     while (leftPointer < rightPointer) {
         let leftCharCode: number = s.charCodeAt(leftPointer);
-        console.log("leftCharCode", leftCharCode)
         if (!isAlphaNumeric(leftCharCode)) {
             leftPointer ++;
             continue;
         }
         let rightCharCode: number = s.charCodeAt(rightPointer);
-        console.log("rightCharCode", rightCharCode)
         if (!isAlphaNumeric(rightCharCode)) {
             rightPointer --;
             continue;
         }
         let asciiCheckArray: number[] = [leftCharCode, getOppositeCaseAsciiValue(leftCharCode)]
-        console.log("asciiCheckArray", asciiCheckArray)
         if (!asciiCheckArray.includes(rightCharCode)) {
             return false;
         }
@@ -35,11 +32,12 @@ function isAlphaNumeric(asciiValue: number): boolean {
 
 function getOppositeCaseAsciiValue (asciiValue: number): number {
     if (65 <= asciiValue && asciiValue <= 90) {
-        let difference: number = asciiValue - 65;
-        return 97 + difference;
+        return asciiValue + 32;
+    }
+    else if (97 <= asciiValue && asciiValue <= 122) {
+        return asciiValue - 32;
     }
     else {
-        let difference: number = asciiValue - 97;
-        return 65 + difference;
+        return asciiValue;
     }
 }

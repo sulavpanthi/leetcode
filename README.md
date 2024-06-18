@@ -30,6 +30,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/sulavpanthi/leetcode/tree/master/0415-add-strings) |
 | [1894-merge-strings-alternately](https://github.com/sulavpanthi/leetcode/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/sulavpanthi/leetcode/tree/master/3379-score-of-a-string) |
 # Binary Search
 |  |
 | ------- |

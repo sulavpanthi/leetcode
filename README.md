@@ -9,6 +9,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0033-search-in-rotated-sorted-array](https://github.com/sulavpanthi/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sulavpanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/sulavpanthi/leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 # Hash Table
 |  |
 | ------- |

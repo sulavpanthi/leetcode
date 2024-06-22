@@ -10,12 +10,14 @@ This repo is for maintaining all my leetcode submissions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sulavpanthi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sulavpanthi/leetcode/tree/master/0136-single-number) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/sulavpanthi/leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sulavpanthi/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sulavpanthi/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sulavpanthi/leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sulavpanthi/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 # Two Pointers
 |  |
 | ------- |
@@ -84,3 +86,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sulavpanthi/leetcode/tree/master/1013-fibonacci-number) |
+# Matrix
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sulavpanthi/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |

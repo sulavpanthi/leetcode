@@ -100,4 +100,20 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sulavpanthi/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

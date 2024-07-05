@@ -90,3 +90,14 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sulavpanthi/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sulavpanthi/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sulavpanthi/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+<!---LeetCode Topics End-->

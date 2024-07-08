@@ -99,6 +99,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/sulavpanthi/leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sulavpanthi/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Depth-First Search
 |  |
@@ -116,4 +117,8 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/sulavpanthi/leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->

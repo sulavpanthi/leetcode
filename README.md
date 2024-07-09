@@ -95,6 +95,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sulavpanthi/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sulavpanthi/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |

@@ -162,6 +162,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sulavpanthi/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -175,4 +176,8 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

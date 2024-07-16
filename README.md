@@ -159,6 +159,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0141-linked-list-cycle](https://github.com/sulavpanthi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sulavpanthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sulavpanthi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -180,4 +181,9 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/0020-valid-parentheses) |
+| [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

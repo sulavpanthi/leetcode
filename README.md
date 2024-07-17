@@ -191,11 +191,17 @@ This repo is for maintaining all my leetcode submissions.
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

@@ -193,12 +193,14 @@ This repo is for maintaining all my leetcode submissions.
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -206,6 +208,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

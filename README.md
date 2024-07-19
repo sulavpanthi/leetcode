@@ -118,6 +118,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -217,8 +218,10 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

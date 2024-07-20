@@ -42,22 +42,4 @@ class Solution:
             result.append(d_dict[i])
         return result
 
-        while len(queue) > 0:
-            n = len(queue)
-            temp = defaultdict(list)
-            for each in range(n):
-                node = queue.pop(0)
-                def traversal(node, y):
-                    nonlocal y_min, y_max
-                    d_dict[y].append(node.val)
-                    if node.left:
-                        y_min = min(y_min, y-1)
-                        traversal(node.left, y-1)
-                    if node.right:
-                        y_max = max(y_max, y+1)
-                        traversal(node.right, y+1)
-                traversal(node, 0)
-            level += 1
-        for key in range(y_min, y_max+1):
-            result.append(sorted(d_dict[key]))
-        return result
+        

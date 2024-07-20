@@ -122,6 +122,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -167,6 +169,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0141-linked-list-cycle](https://github.com/sulavpanthi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sulavpanthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sulavpanthi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -183,6 +186,7 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,6 +234,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +243,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |

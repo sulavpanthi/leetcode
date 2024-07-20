@@ -205,6 +205,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sulavpanthi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -237,4 +238,8 @@ This repo is for maintaining all my leetcode submissions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/sulavpanthi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->

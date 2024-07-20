@@ -13,10 +13,9 @@ class Solution:
 
             # find max element in the same col index
             max_element = float("-inf")
-            row_range = set(range(rows)) - {idx}
-            for each_row in row_range:
+            for each_row in range(rows):
                 max_element = max(max_element, matrix[each_row][min_index])
-            if min_element >= max_element:
+            if min_element == max_element:
                 result.append(min_element)
 
         return result

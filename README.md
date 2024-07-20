@@ -202,6 +202,7 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
+| [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
 ## Greedy
@@ -218,6 +219,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |

@@ -121,6 +121,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0101-symmetric-tree](https://github.com/sulavpanthi/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
@@ -238,6 +239,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -249,6 +251,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |

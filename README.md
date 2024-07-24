@@ -124,6 +124,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0199-binary-tree-right-side-view](https://github.com/sulavpanthi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -138,6 +139,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sulavpanthi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sulavpanthi/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -213,6 +215,7 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
@@ -260,6 +263,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0222-count-complete-tree-nodes](https://github.com/sulavpanthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -280,6 +284,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0222-count-complete-tree-nodes](https://github.com/sulavpanthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -302,4 +307,8 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sulavpanthi/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->

@@ -19,9 +19,9 @@ class Solution:
             for _ in range(n):
                 node, _index = queue.popleft()
                 if node.left:
-                    queue.append((node.left, 2*_index+1))
+                    queue.append((node.left, (_index<<1)+1)) # 2*_index+1
                 if node.right:
-                    queue.append((node.right, 2*_index+2))
+                    queue.append((node.right, (_index<<1)+2)) # 2*_index+2
             last_index = _index
             width = last_index - first_index + 1
             max_width = max(max_width, width)

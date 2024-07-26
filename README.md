@@ -160,6 +160,7 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/sulavpanthi/leetcode/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/sulavpanthi/leetcode/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/sulavpanthi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +226,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2032-largest-odd-number-in-string](https://github.com/sulavpanthi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/sulavpanthi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |

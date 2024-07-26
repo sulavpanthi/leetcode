@@ -3,10 +3,15 @@ class Solution:
         
         # using sliding window approach
         result = []
-        s = s.strip()
         p1, p2 = len(s) - 1, len(s) - 1
         while p1 >= 0:
             print("\n\np1 and p2 at start", p1, p2)
+
+            # remove all whitespaces
+            while s[p2] == " ":
+                p2 -= 1
+
+            p1 = p2
 
             # find the word and append to the result
             while s[p2] != " " and p2 >= 0:

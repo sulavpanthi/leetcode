@@ -219,6 +219,7 @@ This repo is for maintaining all my leetcode submissions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sulavpanthi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
@@ -332,4 +333,8 @@ This repo is for maintaining all my leetcode submissions.
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/sulavpanthi/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sulavpanthi/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sulavpanthi/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

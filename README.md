@@ -198,6 +198,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sulavpanthi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sulavpanthi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +223,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/sulavpanthi/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Counting
 |  |

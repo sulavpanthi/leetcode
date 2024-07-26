@@ -33,8 +33,8 @@ class Solution:
     # Approach 2: Optimal
 
     def largestOddNumber(self, num: str) -> str:
-        largest = float("-inf")
+        largest = ""
         for i in range(len(num)):
             if int(num[i]) % 2 == 1:
                 largest = num[:i+1]
-        return "" if largest == float("-inf") else str(largest)
+        return largest

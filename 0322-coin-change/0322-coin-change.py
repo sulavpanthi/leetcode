@@ -22,20 +22,22 @@ class Solution:
 
         # Approach 2: Tabulation
         n = len(coins)
-        dp = [[0]*(amount+1) for _ in range(n)]
+        prev = [0]*(amount+1)
         for t in range(amount+1):
             if t%coins[0] == 0:
-                dp[0][t] = t//coins[0]
+                prev[t] = t//coins[0]
             else:
-                dp[0][t] = float("inf")
+                prev[t] = float("inf")
+        cur = prev
         for i in range(1, n):
             for t in range(1, amount + 1):
-                not_take = 0 + dp[i-1][t]
+                not_take = 0 + prev[t]
                 take = float("inf")
                 if coins[i] <= t:
-                    take = 1 + dp[i][t-coins[i]]
-                dp[i][t] = min(take, not_take)
-        result = dp[n-1][amount]
+                    take = 1 + cur[t-coins[i]]
+                cur[t] = min(take, not_take)
+                prev = cur
+        result = prev[amount]
         if result == float("inf"):
             return -1
         return result

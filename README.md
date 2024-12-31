@@ -229,6 +229,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0151-reverse-words-in-a-string](https://github.com/sulavpanthi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sulavpanthi/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/sulavpanthi/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sulavpanthi/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/sulavpanthi/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -267,6 +268,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/sulavpanthi/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/sulavpanthi/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sulavpanthi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/sulavpanthi/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Tree

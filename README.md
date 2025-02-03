@@ -168,6 +168,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sulavpanthi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/sulavpanthi/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sulavpanthi/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sulavpanthi/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
@@ -214,6 +215,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sulavpanthi/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -248,6 +250,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sulavpanthi/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/sulavpanthi/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0322-coin-change](https://github.com/sulavpanthi/leetcode/tree/master/0322-coin-change) |

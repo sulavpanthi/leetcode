@@ -207,6 +207,7 @@ This repo is for maintaining all my leetcode submissions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sulavpanthi/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
@@ -245,6 +246,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sulavpanthi/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -266,6 +268,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sulavpanthi/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sulavpanthi/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sulavpanthi/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sulavpanthi/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/sulavpanthi/leetcode/tree/master/0322-coin-change) |

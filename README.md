@@ -253,6 +253,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0075-sort-colors](https://github.com/sulavpanthi/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0238-product-of-array-except-self](https://github.com/sulavpanthi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sulavpanthi/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
@@ -368,4 +369,8 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sulavpanthi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sulavpanthi/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

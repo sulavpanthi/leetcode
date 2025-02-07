@@ -164,6 +164,7 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sulavpanthi/leetcode/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/sulavpanthi/leetcode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/sulavpanthi/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -214,6 +215,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sulavpanthi/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0075-sort-colors](https://github.com/sulavpanthi/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sulavpanthi/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sulavpanthi/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -262,6 +265,7 @@ This repo is for maintaining all my leetcode submissions.
 | [0403-frog-jump](https://github.com/sulavpanthi/leetcode/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/sulavpanthi/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/sulavpanthi/leetcode/tree/master/0890-lemonade-change) |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sulavpanthi/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Greedy
 |  |
@@ -379,4 +383,16 @@ This repo is for maintaining all my leetcode submissions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sulavpanthi/leetcode/tree/master/0238-product-of-array-except-self) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sulavpanthi/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
